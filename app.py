@@ -8,7 +8,6 @@ import urllib.request as ur
 import os
 
 
-API_KEY='5416047155:AAGM2KgXk8llMdR_WaTMmmqyqNTKbSbpQXg'
 bot=telebot.TeleBot(API_KEY)
 
 
